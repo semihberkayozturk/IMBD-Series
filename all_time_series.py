@@ -27,5 +27,5 @@ for serie,rate in zip(series,rates):
     if float(rate)>r:
         print(f"Serie:{serie} Rate:{rate}")
   
-print("\nThank You For Using Our Code...\n")
+print("\nIMDB DATA FETCHED SUCCESSFULLY...\n")
     
